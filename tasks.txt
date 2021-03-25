@@ -1,2 +1,3 @@
 Bamboo-1: Set nodejs server
 Bamboo-2: Set react client
+Bamboo-3: Set react client dev server proxy
